@@ -11,4 +11,6 @@ The amount of UI in this game is so large that proper management of the UI becom
 The handling of the UI in the code tends to be MVC, which also references the idea of Entity.
 
 
+
+
 PS: The whole project is using the company account, I am sorry that I cannot upload it.(Confidentiality Agreement)
