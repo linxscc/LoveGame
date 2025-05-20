@@ -1,4 +1,6 @@
 # LoveGame
+Please note that the version is too old and the public project has been abandoned！！！
+
 The repository is code only, not a complete project.
 The code is the complete code of the project. If you are interested in the code, please contact me.
 
